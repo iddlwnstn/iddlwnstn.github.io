@@ -1,0 +1,13 @@
+---
+layout: post
+title: "pandas 복습"
+---
+
+#pandas 기본지식
+
+1 --> 단일값(single value) = 스칼라
+
+시리즈는 스칼라들을 담는 컨테이너
+시리즈들을 담는 컨테이너는 dataframe
+
+pandas에서는 시리즈, 넘파이 또는 jupyter notebook에서는 칼럼이라고 부름
